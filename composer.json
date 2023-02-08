@@ -13,5 +13,8 @@
             "email": "gabriel99979@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/dom-crawler": "^6.2",
+        "guzzlehttp/guzzle": "^7.5"
+    }
 }
